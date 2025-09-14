@@ -1,5 +1,5 @@
 # IBM-Hackathon-Submission
-Nikki Sanglimsuwan, Samantha Reap, Yadushan Thilianathan, Zhiyang Ying
+Nikki Sanglimsuwan, Samantha Reap, Yadushan Thillainathan, Zhiyang Ying
 
 Language: Qiskit
 Platforms Used: Jupyter, VS Code, Pycharm
