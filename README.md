@@ -1,4 +1,4 @@
-# IBM-Hackathon-Submission
+# USC-Quantum-Computing-Hackathon-Submission
 Nikki Sanglimsuwan, Samantha Reap, Yadushan Thillainathan, Zhiyang Ying
 
 Language: Qiskit
